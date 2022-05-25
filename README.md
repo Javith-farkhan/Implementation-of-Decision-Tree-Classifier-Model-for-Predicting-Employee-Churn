@@ -17,8 +17,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: 
-RegisterNumber:  
+Developed by: Javith farkhan S
+RegisterNumber:  212221240017
 */
 ```
 ```
@@ -48,7 +48,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![decision tree classifier model](head.png)
+![decision tree classifier model](my.png)
 
 
 ## Result:
