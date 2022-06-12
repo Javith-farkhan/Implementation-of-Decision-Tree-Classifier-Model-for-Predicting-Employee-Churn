@@ -20,8 +20,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ## Program:
 ~~~
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: Syed Abdul Wasih H 
-Register Number: 212221240057  
+Developed by: Javith Farkhan
+Register Number: 212221240017  
 ~~~
 ~~~
 import pandas as pd
